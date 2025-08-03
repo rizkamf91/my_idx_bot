@@ -1,0 +1,45 @@
+# Byte‑compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging build directories
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environment folders
+venv/
+.venv/
+env/
+*.env
+
+# Playwright authentication / cache artifacts
+playwright/.auth/
+playwright/.cache/
+node_modules/
+
+# OS & IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs and coverage data
+*.log
+*.ipynb_checkpoints
+htmlcov/
+.coverage
+coverage.*
+coverage.xml
+
+# Bot database / credential files
+user_db.json
+*.sqlite
+*.db
+
+# TMP files
+*.tmp
+*.bak
+*.swp

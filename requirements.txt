@@ -1,0 +1,7 @@
+python-dotenv
+python-telegram-bot==20.6
+yfinance
+pandas
+pandas-ta
+mplfinance
+playwright
